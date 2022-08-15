@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <p align="center">
  
 </p align="center">
-<img src="https://github.com/metal0bird/metal0bird/blob/main/images/intro%20image.001.jpeg" /></a>
+<img src="https://github.com/metal0bird/metal0bird/blob/main/image/hello_img.jpeg" /></a>
 
 </p>
 
