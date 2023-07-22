@@ -1,7 +1,7 @@
 <p align="center">
  
 </p align="center">
-<a href="https://4bdul4ziz.github.io"><img src="https://github.com/metal0bird/metal0bird/blob/main/image/poster.png" /></a>
+<a href=""><img src="https://github.com/metal0bird/metal0bird/blob/main/image/landing%20image.png" height=auto width=auto /></a>
 
 <p align="center">
  
@@ -118,6 +118,6 @@
 <!----- GitHub Repo Stuff - Aman  ------>
 <!----- GitHub Stats - Aman  ------>
 <p align="center">
-<img src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/footer.gif" width="auto" height="auto">
+<img src="https://github.com/metal0bird/metal0bird/blob/main/image/ty.png" width="auto" height="auto">
 </p>
 <p align="center">Enjoy your stay!</p>
