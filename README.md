@@ -60,7 +60,7 @@
 <a href="mailto: aman1283871@@gmail.com">
  <img height="30" src="https://img.shields.io/badge/-Aman-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:bb.abdulaziz@gmail.com"/>
 </a>
-<a href="www.linkedin.com/in/aman-gupta101">
+<a href="https://www.linkedin.com/in/aman-gupta101/">
  <img height="30" src="https://img.shields.io/badge/-Aman-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdul-aziz-a-b-7612661b3/"/>
 </a>
 </p>
