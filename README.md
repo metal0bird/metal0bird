@@ -13,9 +13,8 @@
 
 <p align="center">
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img width="50%" align="right" alt="Github Image" src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/cat.svg"/></a>
 
-  I'm 20 years old and a pre-final undergraduate student pursuing 🖥 Computer Science Engineering speciallised in AI & Robotics. 🎓 from VIT University 🏛. Innovation is something that I thrive for 💡. I love setting foot on new technological territories ✨. I have a passion for reading, photography, solving problems as well as talking to different people! 👨🏻‍💻. I'm currently trying to stay afloat at University.
+  I'm 22 years old and a pre-final undergraduate student pursuing 🖥 Computer Science Engineering speciallised in AI & Robotics. 🎓 from VIT University 🏛. Innovation is something that I thrive for 💡. I love setting foot on new technological territories ✨. I have a passion for reading, photography, solving problems as well as talking to different people! 👨🏻‍💻. I'm currently trying to stay afloat at University.
 
 </p>  
 
@@ -55,17 +54,14 @@
 
 <p align="center">
   
-<a href="https://discord.com/channels/@me/729424807296499822">
- <img height="30" src="https://img.shields.io/badge/-Unicorn✨-5865F2?style=for-the-badge&logo=discord&logoColor=white&link=hhttps://discord.com/channels/@me/729424807296499822"/>
+<a>
+ <img height="30" src="https://img.shields.io/badge/-metal0bird-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
-<a href="mailto: bb.abdulaziz@gmail.com">
- <img height="30" src="https://img.shields.io/badge/-4bdul4ziz-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:bb.abdulaziz@gmail.com"/>
+<a href="mailto: aman1283871@@gmail.com">
+ <img height="30" src="https://img.shields.io/badge/-Aman-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:bb.abdulaziz@gmail.com"/>
 </a>
-<a href="https://www.linkedin.com/in/abdul-aziz-a-b-7612661b3/">
- <img height="30" src="https://img.shields.io/badge/-AbdulAziz-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdul-aziz-a-b-7612661b3/"/>
-</a>
- <a href="https://twitter.com/AerialUni">
- <img height="30" src="https://img.shields.io/badge/-AerialUni-blue?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/ritikhere307"/>
+<a href="www.linkedin.com/in/aman-gupta101">
+ <img height="30" src="https://img.shields.io/badge/-Aman-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdul-aziz-a-b-7612661b3/"/>
 </a>
 </p>
 
