@@ -2,7 +2,7 @@
 <p align="center">
  
 </p align="center">
-<img src="https://github.com/metal0bird/metal0bird/blob/main/image/hello_img.jpeg" /></a>
+<img src="https://github.com/metal0bird/metal0bird/blob/main/image/poster.png" /></a>
 
 </p>
 
