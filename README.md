@@ -2,7 +2,7 @@
 <p align="center">
  
 </p align="center">
-<a href="https://4bdul4ziz.github.io"><img src="https://github.com/metal0bird/metal0bird/blob/main/image/poster.png" width="50" /></a>
+<a href="https://4bdul4ziz.github.io"><img src="https://github.com/metal0bird/metal0bird/blob/main/image/poster.png" width="100px" height="60px"  /></a>
 
 <p align="center">
 
