@@ -65,12 +65,12 @@
 </a>
 </p>
 
- <!----- Contribution Stats - Abdul  ------>
+ <!----- Contribution Stats - Aman  ------>
 
 <h2 align="center">
   My GitHub Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 </h2>
- <!----- GitHub Stats - Abdul  ------>
+ <!----- GitHub Stats - Aman  ------>
 <table>
   <tr>
      <p align="center">
@@ -101,21 +101,20 @@
    </tr>
 </table>
 
-<!----- GitHub Repo Stuff - Abdul  ------>
+<!----- GitHub Repo Stuff - Aman  ------>
 <table>
   <tr>
     <p align="center">
       <a href="https://github.com/4bdul4ziz/AgriVision"><img src="https://github-readme-stats.vercel.app/api/pin/?username=metal0bird&repo=AgriVision&cache_seconds=60&theme=radical" display=block height=auto></a>
-      <a href="https://github.com/4bdul4ziz/HADES"><img src="https://github-readme-stats.vercel.app/api/pin/?username=4bdul4ziz&repo=HADES&cache_seconds=60&theme=radical" display=block height=auto></a>      
-      <a href="https://github.com/4bdul4ziz/bird-bot-discord"><img src="https://github-readme-stats.vercel.app/api/pin/?username=4bdul4ziz&repo=bird-bot-discord&cache_seconds=60&theme=radical" display=block height=auto></a>
-      <a href="https://github.com/4bdul4ziz/musicality-bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=4bdul4ziz&repo=musicality-bot&cache_seconds=60&theme=radical" display=block height=auto></a>
-      <a href="https://github.com/4bdul4ziz/AutoEx"><img src="https://github-readme-stats.vercel.app/api/pin/?username=4bdul4ziz&repo=AutoEx&cache_seconds=60&theme=radical" display=block height=auto></a>
-      <a href="https://github.com/4bdul4ziz/Artificial-Conversation-Entity"><img src="https://github-readme-stats.vercel.app/api/pin/?username=4bdul4ziz&repo=Artificial-Conversation-Entity&cache_seconds=30&theme=radical" display=block height=auto></a>
+      <a href="https://github.com/metal0bird/Reinforcement_learning_portfolio_optimization"><img src="https://github-readme-stats.vercel.app/api/pin/?username=metal0bird&repo=Reinforcement_learning_portfolio_optimization&cache_seconds=60&theme=radical" display=block height=auto></a>      
+      <a href="https://github.com/metal0bird/TARP_early_suicide_prediction"><img src="https://github-readme-stats.vercel.app/api/pin/?username=metal0bird&repo=TARP_early_suicide_prediction&cache_seconds=60&theme=radical" display=block height=auto></a>
+      <a href="https://github.com/metal0bird/EZTicket"><img src="https://github-readme-stats.vercel.app/api/pin/?username=metal0bird&repo=EZTicket&cache_seconds=60&theme=radical" display=block height=auto></a>
+      <a href="https://github.com/MeTuL10/online-streaming-analytics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=metal0bird&repo=online-streaming-analytics&cache_seconds=60&theme=radical" display=block height=auto></a>
     </p>
   </tr>
 </table>
-<!----- GitHub Repo Stuff - Abdul  ------>
-<!----- GitHub Stats - Abdul  ------>
+<!----- GitHub Repo Stuff - Aman  ------>
+<!----- GitHub Stats - Aman  ------>
 <p align="center">
 <img src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/footer.gif" width="auto" height="auto">
 </p>
