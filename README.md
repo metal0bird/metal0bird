@@ -65,15 +65,6 @@
 </a>
 </p>
 
-
-<h2 align="center">
-  My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
-</h2>
- <!----- Contribution Stats - Abdul  ------>
-
-<p align="center">
-  <img src="https://github.com/4bdul4ziz/4bdul4ziz/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
  <!----- Contribution Stats - Abdul  ------>
 
 <h2 align="center">
@@ -99,7 +90,7 @@
   <tr>
     <p align="center">
       <img src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/kat.gif" width="140px">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=4bdul4ziz&theme=radical" alt="4bdul4ziz">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=metal0bird&theme=radical" alt="metal0bird">
       <img src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/kitty.gif" width="160px">
     </p>
   </tr>
