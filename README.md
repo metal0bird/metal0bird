@@ -97,19 +97,15 @@
 </table>
 <table> 
   <tr>
-    <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4bdul4ziz&theme=monokai&cache_seconds=60"  display=block width=100% height=auto alt="1"></p>
+    <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=metal0bird&theme=monokai&cache_seconds=60"  display=block width=100% height=auto alt="1"></p>
    </tr>
 </table>
 
-<!--START_SECTION:waka-->
-<p align="center"><img height = "30" src="https://wakatime.com/badge/user/f713749e-ecda-431c-be7b-3d4410ef3688.svg?style=for-the-badge"/>
-</p>
-<!--END_SECTION:waka-->
 <!----- GitHub Repo Stuff - Abdul  ------>
 <table>
   <tr>
     <p align="center">
-      <a href="https://github.com/4bdul4ziz/CSI-VIT"><img src="https://github-readme-stats.vercel.app/api/pin/?username=4bdul4ziz&repo=CSI-VIT&cache_seconds=60&theme=radical" display=block height=auto></a>
+      <a href="https://github.com/4bdul4ziz/AgriVision"><img src="https://github-readme-stats.vercel.app/api/pin/?username=metal0bird&repo=AgriVision&cache_seconds=60&theme=radical" display=block height=auto></a>
       <a href="https://github.com/4bdul4ziz/HADES"><img src="https://github-readme-stats.vercel.app/api/pin/?username=4bdul4ziz&repo=HADES&cache_seconds=60&theme=radical" display=block height=auto></a>      
       <a href="https://github.com/4bdul4ziz/bird-bot-discord"><img src="https://github-readme-stats.vercel.app/api/pin/?username=4bdul4ziz&repo=bird-bot-discord&cache_seconds=60&theme=radical" display=block height=auto></a>
       <a href="https://github.com/4bdul4ziz/musicality-bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=4bdul4ziz&repo=musicality-bot&cache_seconds=60&theme=radical" display=block height=auto></a>
