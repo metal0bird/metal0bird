@@ -76,9 +76,9 @@
 <table>
   <tr>
     <p align="center">
-      <img src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/kat.gif" width="140px">
+      <img src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/kat1.gif" width="140px">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=metal0bird&theme=radical" alt="metal0bird">
-      <img src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/kitty.gif" width="160px">
+      <img src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/kat2.gif" width="160px">
     </p>
   </tr>
 </table>
