@@ -19,7 +19,7 @@
 </p>  
 
 <h2 align="center">Technology Stack <img src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/laptop.gif" width="50"></h2>
-
+<img src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/header.png" />
 
 <p align="center">
  <img height="30" src="https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python"/>
@@ -61,9 +61,9 @@
 <table>
   <tr>
      <p align="center">
-      <img src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/leftwing.gif" width="150px">
+      <img src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/leftwing1.gif" width="150px">
        <!-- <img src="https://github-profile-trophy.vercel.app/?username=4bdul4ziz&title=Stars,Followers,Commit,Issues,Repositories,PullRequest&theme=discord&no- bg=true&column=3&margin-w=15&margin-h=15"> -->
-       <img src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/rightwing.gif" width="150px">
+       <img src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/rightwing1.gif" width="150px">
     </p>
   </tr>
 </table>
