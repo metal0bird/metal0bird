@@ -93,7 +93,7 @@
   <tr>
     <p align="center">
       <a href="https://github.com/4bdul4ziz/AgriVision"><img src="https://github-readme-stats.vercel.app/api/pin/?username=metal0bird&repo=AgriVision&cache_seconds=60&theme=radical" display=block height=auto></a>
-      <a href="https://github.com/metal0bird/Reinforcement_learning_portfolio_optimization"><img src="https://github-readme-stats.vercel.app/api/pin/?username=metal0bird&repo=Reinforcement_learning_portfolio_optimization&cache_seconds=60&theme=radical" display=block height=auto></a>      
+      <a href="https://github.com/metal0bird/Reinforcement_learning_portfolio_optimization"><img src="https://github-readme-stats.vercel.app/api/pin/?username=metal0birdPAT_1&repo=Reinforcement_learning_portfolio_optimization&cache_seconds=60&theme=radical" display=block height=auto></a>      
       <a href="https://github.com/metal0bird/TARP_early_suicide_prediction"><img src="https://github-readme-stats.vercel.app/api/pin/?username=metal0bird&repo=TARP_early_suicide_prediction&cache_seconds=60&theme=radical" display=block height=auto></a>
       <a href="https://github.com/metal0bird/EZTicket"><img src="https://github-readme-stats.vercel.app/api/pin/?username=metal0bird&repo=EZTicket&cache_seconds=60&theme=radical" display=block height=auto></a>
       <a href="https://github.com/MeTuL10/online-streaming-analytics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MeTuL10&repo=online-streaming-analytics&cache_seconds=60&theme=radical" display=block height=auto></a>
