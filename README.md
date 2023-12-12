@@ -18,40 +18,6 @@
 
 </p>  
 
-<h2 align="center">Technology Stack <img src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/laptop.gif" width="50"></h2>
-<img src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/header.png" />
-
-<p align="center">
- <img height="30" src="https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python"/>
-<img height="30" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img height="30" src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c"/>
-<img height="30" src="https://img.shields.io/badge/-R-blue?style=for-the-badge&logo=r"/>
-<img height="30" src="https://img.shields.io/badge/-Discord.py-black?style=for-the-badge&logo=discord"/>
-<img height="30" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img height="30" src="https://img.shields.io/badge/-MySQL-lightblue?style=for-the-badge&logo=mysql"/>
-<img height="30" src="https://img.shields.io/badge/-OracleSQL-red?style=for-the-badge&logo=oracle"/>
-<img height="30" src="https://img.shields.io/badge/-MarkDown-black?style=for-the-badge&logo=markdown"/>
-<img height="30" src="https://img.shields.io/badge/-Arduino-turquoise?style=for-the-badge&logo=arduino"/>
-<img height="30" src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git"/>
-<img height="30" src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github"/>
-<img height="30" src="https://img.shields.io/badge/-VSCode-blue?style=for-the-badge&logo=visualstudiocode"/>
-</p>
-
-<h2 align="center">Reach Me On <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
-
-<p align="center">
-  
-<a>
- <img height="30" src="https://img.shields.io/badge/-metal0bird-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
-<a href="mailto: aman1283871@@gmail.com">
- <img height="30" src="https://img.shields.io/badge/-Aman-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:bb.abdulaziz@gmail.com"/>
-</a>
-<a href="https://www.linkedin.com/in/aman-gupta101/">
- <img height="30" src="https://img.shields.io/badge/-Aman-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdul-aziz-a-b-7612661b3/"/>
-</a>
-</p>
-
  <!----- Contribution Stats - Aman  ------>
 
 <h2 align="center">
