@@ -16,7 +16,7 @@
 ### Hey, I'm Aman
 I'm a 22-year-old Machine Learning Engineer based in India and I'm passionate about contributing to the tech domain.
 - Check out my [LinkedIn](https://www.linkedin.com/in/aman-gupta101/) to learn more about me.
-- Explore my [Twitter (X)](https://www.linkedin.com/in/aman-gupta101/) to know what I have been up to.
+- Explore my [Twitter (X)](https://twitter.com/Metal0bird) to know what I have been up to.
 - Here are my insights of things I have been learning on my [Blogs](https://dev.to/metal0bird).
 
 ### Current Endeavours
