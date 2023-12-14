@@ -15,11 +15,11 @@
 
 ### Hey, I'm Aman
 I'm a 22-year-old Machine Learning Engineer based in India and I'm passionate about contributing to the tech domain.
-- Check out my [LinkedIn](https://pages.github.com/) to learn more about me.
-- Explore my Twitter (X) to know what I have been up to.
-- Here are my insights of things I have been learning on my Blogs.
+- Check out my [LinkedIn](https://www.linkedin.com/in/aman-gupta101/) to learn more about me.
+- Explore my [Twitter (X)](https://www.linkedin.com/in/aman-gupta101/) to know what I have been up to.
+- Here are my insights of things I have been learning on my [Blogs](https://dev.to/metal0bird).
 
-###Current Endeavours
+### Current Endeavours
 I'm currently working along side Dean of Academics of VIT, for my final year project based on brain waves using deep learning. Along side that I have been finishing up the tensorFlow developers specialization by Deeplearning.ai.
 
 </p>  
