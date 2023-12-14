@@ -13,8 +13,14 @@
 
 <p align="center">
 
+### Hey, I'm Aman
+I'm a 22-year-old Machine Learning Engineer based in India and I'm passionate about contributing to the tech domain.
+- Check out my [LinkedIn](https://pages.github.com/) to learn more about me.
+- Explore my Twitter (X) to know what I have been up to.
+- Here are my insights of things I have been learning on my Blogs.
 
-  I'm 22 years old and a pre-final undergraduate student pursuing 🖥 Computer Science Engineering speciallised in AI & Robotics. 🎓 from VIT University 🏛. Innovation is something that I thrive for 💡. I love setting foot on new technological territories ✨. I have a passion for reading, photography, solving problems as well as talking to different people! 👨🏻‍💻. I'm currently trying to stay afloat at University.
+###Current Endeavours
+I'm currently working along side Dean of Academics of VIT, for my final year project based on brain waves using deep learning. Along side that I have been finishing up the tensorFlow developers specialization by Deeplearning.ai.
 
 </p>  
 
