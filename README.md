@@ -1,7 +1,6 @@
 <p align="center">
  
 </p align="center">
-<a href=""><img src="https://github.com/metal0bird/metal0bird/blob/main/image/landing%20image.png" height=auto width=auto /></a>
 
 <p align="center">
  
