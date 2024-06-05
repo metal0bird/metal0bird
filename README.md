@@ -5,9 +5,7 @@
 
 <p align="center">
  
- <img src="https://profile-counter.glitch.me/metal0bird/count.svg"/>
-<!--<img src="https://img.shields.io/github/stars/4bdul4ziz?color=yellow&label=%20Stars%20"/> -->
-<!-- <img src="https://badges.pufler.dev/commits/yearly/4bdul4ziz" /> -->
+ <img src="https://github.com/metal0bird/metal0bird/blob/main/image/poster_2.png"/>
 
 </p>
 
